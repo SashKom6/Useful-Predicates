@@ -1,6 +1,6 @@
 {
     "pack": {
-        "description": "A library containing commonly used predicates.",
+        "description": "A library containing commonly used predicates. https://modrinth.com/datapack/useful-predicates",
         "min_format": 37,
         "max_format": 84,
         "pack_format": 84,
