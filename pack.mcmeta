@@ -1,5 +1,9 @@
 {
     "pack": {
-        "description": "A library containing commonly used predicates."
+        "description": "A library containing commonly used predicates.",
+        "min_format": 37,
+        "max_format": 84,
+        "pack_format": 84,
+        "supported_formats": [37, 84]
     }
 }
