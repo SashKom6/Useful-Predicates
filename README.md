@@ -1,8 +1,6 @@
 # Useful Predicates
 
-``
-NOTE: Useful is a work in progress. More predicates are to be added when I feel like it. You can help me by contributing on GitHub.
-``
+> NOTE: Useful is a work in progress. More predicates are to be added when I feel like it. You can help me by contributing on GitHub.
 
 ![A logo showing the text "Useful Predicates" in a Minecraft title style. Made using Blockbench with Minecraft Title Generator.](logo.png)
 
@@ -20,9 +18,7 @@ If you don't already know, a **predicate** is a kind of file in data packs that 
 ### [🟢Modrinth](https://modrinth.com/datapack/useful-predicates)
 
 ## ✅Usage
-``
-NOTE: to use the predicates in this library it must be installed! Any data packs made using it will not work unless the user has installed Useful!
-``
+> NOTE: to use the predicates in this library it must be installed! Any data packs made using it will not work unless the user has installed Useful!
 
 You can access predicates from this library simply by using [``execute if predicate``](https://minecraft.wiki/w/Commands/execute#(if|unless)_predicate) followed by the predicate name. Visit the [project wiki](https://github.com/SashKom6/Useful-Predicates/wiki) for more info.
 
