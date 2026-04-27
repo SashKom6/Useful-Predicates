@@ -30,7 +30,7 @@ You can access predicates from this library simply by using [``execute if predic
 You can use the code below to insert a dependency badge linking to this library in any place that supports Markdown.
 
 ``
-[![A badge showing the text "Useful Predicates in a Minecraft title style on a golden background. Made using Blockbench with Minecraft Title Generator.](dependency.png)](https://modrinth.com/datapack/useful-predicates)
+[![A badge showing the text "Useful Predicates in a Minecraft title style on a golden background. Made using Blockbench with Minecraft Title Generator.](https://raw.githubusercontent.com/SashKom6/Useful-Predicates/main/dependency.png)](https://modrinth.com/datapack/useful-predicates)
 ``
 
 [![A badge showing the text "Useful Predicates in a Minecraft title style on a golden background. Made using Blockbench with Minecraft Title Generator.](dependency.png)](https://modrinth.com/datapack/useful-predicates)
